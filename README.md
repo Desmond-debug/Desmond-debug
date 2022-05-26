@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Desmond
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development, and python
+- 🌱 I’m currently learning web development, and python and c programing language
 - 💞️ I’m looking to collaborate on projects
 - 📫 contact:+237670921882
 - email:fdesmond670@gmail.com
